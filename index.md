@@ -6,6 +6,6 @@
     + Major: Statistics
     + Minor: Japanese
     + Hobby: swimming, making art crafts, reading book  
-![](/sefie.png)
+![](/selfie.png)
 
 

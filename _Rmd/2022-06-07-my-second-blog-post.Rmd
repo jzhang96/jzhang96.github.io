@@ -4,7 +4,7 @@ author: "Jiyue Zhang"
 date: '2022-06-07'
 ---
 
-```{r setup}
+```{r setup, echo=FALSE}
 knitr::opts_chunk$set(fig.path = "../images/")
 ```
 
@@ -18,3 +18,5 @@ knitr::opts_chunk$set(fig.path = "../images/")
 ```{r}
 plot(iris)
 ```
+
+

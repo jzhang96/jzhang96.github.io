@@ -3,10 +3,6 @@ Programming Background
 Jiyue Zhang
 2022-06-07
 
-``` r
-knitr::opts_chunk$set(fig.path = "../images/")
-```
-
 # Response of the prompt
 
 -   I think R is more flexible and versatile than SAS, and secondly, R

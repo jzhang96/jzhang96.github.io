@@ -54,5 +54,5 @@ data. In this way, I may get more interesting result from the data.
 [github pages repo](https://github.com/jzhang96/Project1)
 
  
-[the regular repo: ](https://jzhang96.github.io/Project1/)
+[the regular repo](https://jzhang96.github.io/Project1/)
 

@@ -51,7 +51,14 @@ data. In this way, I may get more interesting result from the data.
 # Links
 
 github pages repo:  
+<<<<<<< HEAD
 <https://github.com/jzhang96/ST558-Project1/tree/main>
 
 the regular repo:  
 <https://jzhang96.github.io/ST558-Project1>
+=======
+<https://github.com/jzhang96/ST558-Project1/tree/main>\
+
+the regular repo:  
+<https://jzhang96.github.io/ST558-Project1/>\
+>>>>>>> d83cd170c25551dfdd70bed017b486c1318f1fdc

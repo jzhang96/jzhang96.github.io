@@ -15,6 +15,12 @@ library(ggplot2)
 library(tidyr)
 fit <- lm(dist ~ speed, data = cars)
 cars <- cars %>% ciTools::add_pi(fit, names = c("lower", "upper"))
+```
+
+    ## Warning in add_pi.lm(., fit, names = c("lower", "upper")): These PIs
+    ## may have already been appended to your dataframe. Overwriting.
+
+``` r
 ggplot(cars, aes(x = speed, y = dist)) +
 geom_point() +
 geom_smooth(method = "lm", fill = "Blue") +
@@ -22,4 +28,6 @@ geom_ribbon(aes(ymin = lower, ymax = upper), alpha = 0.3, fill = "Red") +
 ggtitle("Scatter Plot with 95% PI & 95% CI")
 ```
 
-![](C:/Users/LAILA/Desktop/558/git/jzhang96.github.io/_posts/2022-06-29-my-third-blog-post_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+    ## `geom_smooth()` using formula 'y ~ x'
+
+![](../images/unnamed-chunk-1-1.png)<!-- -->

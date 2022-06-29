@@ -5,8 +5,8 @@ date: '2022-06-29'
 output: github_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+```{r setup, echo=FALSE}
+knitr::opts_chunk$set(fig.path = "../images/")
 ```
 
 # Feeling about R so far

@@ -6,7 +6,7 @@ output: github_document
 ---
 
 ```{r setup, echo=FALSE}
-knitr::opts_chunk$set(fig.path = "../images/", message = FALSE)
+knitr::opts_chunk$set(fig.path = "../images/", message = FALSE, warning = FALSE)
 ```
 
 # Feeling about R so far

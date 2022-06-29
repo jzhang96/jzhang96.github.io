@@ -28,6 +28,4 @@ geom_ribbon(aes(ymin = lower, ymax = upper), alpha = 0.3, fill = "Red") +
 ggtitle("Scatter Plot with 95% PI & 95% CI")
 ```
 
-    ## `geom_smooth()` using formula 'y ~ x'
-
 ![](../images/unnamed-chunk-1-1.png)<!-- -->

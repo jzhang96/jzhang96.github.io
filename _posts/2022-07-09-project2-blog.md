@@ -29,5 +29,5 @@ to figure out how this project work and the purpose of this project.
 I did better than last project that I planned ahead and did them step by
 step. Therefore, I didn’t feel overwhelm when I doing this one.
 
-(project 2)\[<https://github.com/cmknezev/ST-558-Project-2>
-(repo)\[<https://github.com/cmknezev/ST-558-Project-2>\]
+[project 2](https://cmknezev.github.io/ST-558-Project-2/)
+[repo](https://github.com/cmknezev/ST-558-Project-2)
